@@ -4,8 +4,8 @@
 }
 
 #canvas {
-	width: 750px;
-	height: 750px;
+	width: 650px;
+	height: 650px;
 	background-color: #cba281;
 	transform: translate(50px, 50px);
 	cursor: pointer;
@@ -14,4 +14,5 @@
 
 .controls {
 	width: 350px;
+	float:right;
 }
