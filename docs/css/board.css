@@ -1,6 +1,7 @@
 .boardbox {
 	width: 850px;
 	/* background-color: red; */
+	margin:-20px;
 }
 
 #canvas {
