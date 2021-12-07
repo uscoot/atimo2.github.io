@@ -7,7 +7,7 @@
 	width: 650px;
 	height: 650px;
 	background-color: #cba281;
-	transform: translate(50px, 50px);
+	transform: translate(30px, 30px);
 	cursor: pointer;
 	box-shadow: -2px -2px 2px #F3F2F2, 5px 5px 5px #6F6767;
 }
